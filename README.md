@@ -1,1 +1,1 @@
-# proyecto-area-cuadrado
+# Proyecto-area-cuadrado
